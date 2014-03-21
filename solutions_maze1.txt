@@ -1,0 +1,26 @@
+Trail 1: (2, 0) (2, 1) (2, 2) (2, 3) (3, 3) (4, 3) (5, 3) (5, 4) (5, 5) (5, 6) (5, 7) (5, 8) (4, 8) (3, 8) (3, 9) (3, 10) (3, 11) (3, 12) (3, 13) (3, 14) (3, 15) (3, 16) (3, 17) (3, 18) (3, 19) (3, 20) (3, 21) (3, 22) (3, 23) (3, 24) (4, 24) (5, 24) (6, 24) (7, 24) (8, 24) (9, 24) (9, 25) (9, 26) (9, 27) (9, 28) (9, 29) (9, 30) 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+----xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx-xxxx-----------------xxxxxx
+xxx-xxxx-xxxxxxxxxxxxxxx-xxxxxx
+xxx------xxxxxxxxxxxxxxx-xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx-xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx-xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx-xxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx-------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Trail 2: (2, 0) (2, 1) (2, 2) (2, 3) (3, 3) (4, 3) (5, 3) (5, 4) (5, 5) (5, 6) (5, 7) (5, 8) (5, 9) (5, 10) (5, 11) (6, 11) (7, 11) (8, 11) (9, 11) (9, 12) (9, 13) (9, 14) (9, 15) (9, 16) (9, 17) (9, 18) (9, 19) (9, 20) (9, 21) (9, 22) (9, 23) (9, 24) (9, 25) (9, 26) (9, 27) (9, 28) (9, 29) (9, 30) 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+----xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx-xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx-xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx---------xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx-xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx-xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx-xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxx--------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+

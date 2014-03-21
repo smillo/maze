@@ -1,0 +1,12 @@
+11 30
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx-------------xxxxxxxxxxxxxxx
+----xxxxxxxxxxx-xxxxxxxxxxxxxxx
+xxx-xxxx-----------------xxxxxx
+xxx-xxxx-xxxxxxxxxxxxxxx-xxxxxx
+xxx---------xxxxxxxxxxxx-xxxxxx
+xxx-xxxxxxx-xxxxxxxxxxxx-xxxxxx
+xxx-xxxx----------xxxxxx-xxxxxx
+xxx-xxxxxxx-xxxxx-xxxxxx-xxxxxx
+xxxxxxxxxxx--------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
